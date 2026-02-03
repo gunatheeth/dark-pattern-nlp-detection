@@ -1,0 +1,13 @@
+{
+  "mathur": {
+    "status": "downloaded",
+    "path": "data\\raw\\mathur_dark_patterns.csv",
+    "source": "https://raw.githubusercontent.com/aruneshmathur/dark-patterns/master/data/final-dark-patterns/dark-patterns.csv"
+  },
+  "yada": {
+    "status": "downloaded",
+    "path_tsv": "data\\raw\\yada_dark_patterns.tsv",
+    "path_csv": "data\\raw\\yada_dark_patterns.csv",
+    "source": "https://raw.githubusercontent.com/yamanalab/ec-darkpattern/master/dataset/dataset.tsv"
+  }
+}
